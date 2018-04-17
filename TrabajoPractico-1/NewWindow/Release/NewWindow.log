@@ -1,0 +1,9 @@
+﻿  Main.cpp
+Main.cpp(72): warning C4101: 'keystate': variable local sin referencia
+  Generando código
+  0 of 1 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  NewWindow.vcxproj -> D:\Programacion de Graficos I\TrabajoPractico-1\Release\NewWindow.exe
+  NewWindow.vcxproj -> D:\Programacion de Graficos I\TrabajoPractico-1\Release\NewWindow.pdb (Full PDB)
