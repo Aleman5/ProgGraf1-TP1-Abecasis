@@ -1,9 +1,17 @@
-﻿  Main.cpp
-Main.cpp(72): warning C4101: 'keystate': variable local sin referencia
-  Generando código
-  0 of 1 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  Generación de código finalizada
-  NewWindow.vcxproj -> D:\Programacion de Graficos I\TrabajoPractico-1\Release\NewWindow.exe
-  NewWindow.vcxproj -> D:\Programacion de Graficos I\TrabajoPractico-1\Release\NewWindow.pdb (Full PDB)
+﻿  NewWindow.vcxproj -> D:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Release\NewWindow.exe
+  NewWindow.vcxproj -> D:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Release\NewWindow.pdb (Full PDB)
+  D:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Dependencies\SDL2-2.0.8\lib\x86\SDL2.dll
+  D:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Dependencies\SDL2-2.0.8\lib\x86\libjpeg-9.dll
+  D:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Dependencies\SDL2-2.0.8\lib\x86\libpng16-16.dll
+  D:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Dependencies\SDL2-2.0.8\lib\x86\libtiff-5.dll
+  D:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Dependencies\SDL2-2.0.8\lib\x86\libwebp-7.dll
+  D:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Dependencies\SDL2-2.0.8\lib\x86\SDL2_image.dll
+  D:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Dependencies\SDL2-2.0.8\lib\x86\zlib1.dll
+  D:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Dependencies\SDL2-2.0.8\lib\x86\libFLAC-8.dll
+  D:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Dependencies\SDL2-2.0.8\lib\x86\libmodplug-1.dll
+  D:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Dependencies\SDL2-2.0.8\lib\x86\libmpg123-0.dll
+  D:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Dependencies\SDL2-2.0.8\lib\x86\libogg-0.dll
+  D:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Dependencies\SDL2-2.0.8\lib\x86\libvorbis-0.dll
+  D:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Dependencies\SDL2-2.0.8\lib\x86\libvorbisfile-3.dll
+  D:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Dependencies\SDL2-2.0.8\lib\x86\SDL2_mixer.dll
+         14 archivo(s) copiado(s).
