@@ -1,0 +1,20 @@
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+D:/Programacion de Graficos I/ProgGraf1-TP1-Abecasis/TrabajoPractico-1/x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
