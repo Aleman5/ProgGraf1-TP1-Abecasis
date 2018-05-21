@@ -1,10 +1,14 @@
-﻿  NewWindow.vcxproj -> D:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\x64\Release\NewWindow.exe
-  NewWindow.vcxproj -> D:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\x64\Release\NewWindow.pdb (Full PDB)
-  D:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Dependencies\SDL2-2.0.8\lib\x64\libjpeg-9.dll
-  D:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Dependencies\SDL2-2.0.8\lib\x64\libpng16-16.dll
-  D:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Dependencies\SDL2-2.0.8\lib\x64\libtiff-5.dll
-  D:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Dependencies\SDL2-2.0.8\lib\x64\libwebp-7.dll
-  D:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Dependencies\SDL2-2.0.8\lib\x64\SDL2.dll
-  D:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Dependencies\SDL2-2.0.8\lib\x64\SDL2_image.dll
-  D:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Dependencies\SDL2-2.0.8\lib\x64\zlib1.dll
+﻿  Generating code
+  0 of 1 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  NewWindow.vcxproj -> K:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\x64\Release\NewWindow.exe
+  K:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Dependencies\SDL2-2.0.8\lib\x64\libjpeg-9.dll
+  K:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Dependencies\SDL2-2.0.8\lib\x64\libpng16-16.dll
+  K:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Dependencies\SDL2-2.0.8\lib\x64\libtiff-5.dll
+  K:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Dependencies\SDL2-2.0.8\lib\x64\libwebp-7.dll
+  K:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Dependencies\SDL2-2.0.8\lib\x64\SDL2.dll
+  K:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Dependencies\SDL2-2.0.8\lib\x64\SDL2_image.dll
+  K:\Programacion de Graficos I\ProgGraf1-TP1-Abecasis\TrabajoPractico-1\Dependencies\SDL2-2.0.8\lib\x64\zlib1.dll
           7 archivo(s) copiado(s).
